@@ -15,5 +15,7 @@ int main()
     
     int result = summ(a=a,b=b);
     std::cout << "Result is " << result << std::endl;
+
+    return 0;
 }
 
